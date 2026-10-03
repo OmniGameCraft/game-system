@@ -1,0 +1,21 @@
+=== This PC's network addresses ===
+Bluetooth Network Connection             169.254.76.252
+Local Area Connection* 2                 169.254.169.18
+Local Area Connection* 1                 169.254.200.56
+Wi-Fi                                    192.168.100.4
+
+=== Network profile ===
+Wi-Fi                          Private
+
+=== Port 3000 listening ===
+  TCP    0.0.0.0:3000           0.0.0.0:0              LISTENING       11772
+
+Image Name:   node.exe
+PID:          11772
+Session Name: Console
+Session#:     3
+Mem Usage:    83,548 K
+
+=== Firewall rules for Node.js ===
+Rule Name:                            Node.js JavaScript Runtime
+Rule Name:                            Node.js JavaScript Runtime
